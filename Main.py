@@ -11,7 +11,6 @@ print("ANTICHEAT LOADING---- MADE BY FARTLORD AND CYPPHI")
 
 PLAYER_HACKING = input("Which Player is Hacking?")
 def Main():
-   while AntiCheat = True:
    pyautogui.keyDown("t")
    pyautogui.keyUp("t")
    pyautogui.typewrite("/ban "+PLAYER_HACKING)
